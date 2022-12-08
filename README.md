@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Athaliah Tauro</h1>
-<h3 align="center">A passionate frontend developer from Zimbabwe</h3>
+<h3 align="center">A passionate software development student from Zimbabwe</h3>
 <img align="right"  width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athaliah8&label=Profile%20views&color=0e75b6&style=flat" alt="Coding" /> </p>
