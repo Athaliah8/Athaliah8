@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Awesome-Book Website](https://github.com/SabiMantock/awesome-books)
 
-- 🌱 I’m currently learning **full stack software developmenet**
+- 🌱 I’m currently learning **full stack software development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athaliah8](https://github.com/Athaliah8)
 
