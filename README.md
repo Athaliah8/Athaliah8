@@ -5,7 +5,6 @@
 <h3 align="center">A passionate software development student from Zimbabwe</h3>
 <img align="right"  width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="">
 
-<p align="left"> <a href="https://twitter.com/athaliahli" target="blank"><img src="https://img.shields.io/twitter/follow/athaliahli?logo=twitter&style=for-the-badge" alt="athaliahli" /></a> </p>
 
 - 🔭 I’m currently working on [Awesome-Book Website](https://github.com/SabiMantock/awesome-books)
 
